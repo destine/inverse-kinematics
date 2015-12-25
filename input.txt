@@ -1,0 +1,3 @@
+-arm ba/.1 dp/.2 ba/.3 pm/.5
+-path 1 1
+-ell 1 1
