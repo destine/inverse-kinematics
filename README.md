@@ -20,7 +20,7 @@ We provided a sample input file which can be run with `./as4 input.txt`.
 
 ## Input Format
 
-The input consists of a series of commands, each on its own separate line. A command consists of a flag followed by a series of arguments. These commands define the scene on which the program executes on.
+The input consists of a series of commands, each on its own separate line. A command consists of a flag followed by a series of arguments. These commands define the scene on which the program executes.
 
 ### Flags
 - -arm [joint/]length ... (for joint types, use 'pm' for prismatic joints, 'pn' for pin joints, and 'ba' for ball joints)
