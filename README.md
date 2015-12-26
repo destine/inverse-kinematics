@@ -14,7 +14,7 @@ Mac OS X 10.9.5
 
 $ make
 
-$ ./as4 <file>
+$ ./as4 \<file\>
 
 We provided a sample input file which can be run using "./as4 input.txt".
 
