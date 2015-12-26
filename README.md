@@ -12,9 +12,10 @@ Mac OS X 10.9.5
 
 ## Instructions for Execution
 
-`$ make`
-
-`$ ./as4 <file>`
+``` bash
+$ make
+$ ./as4 <file>
+```
 
 We provided a sample input file which can be run with `./as4 input.txt`.
 
