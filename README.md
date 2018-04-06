@@ -1,11 +1,5 @@
 # Cinématique
 
-## Group members
-
-cs184-ad Jonathan Ting
-
-cs184-cn Destine Lee
-
 ## Supported Platforms
 
 Mac OS X 10.9.5
