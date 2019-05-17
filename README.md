@@ -1,4 +1,4 @@
-# Cinématique
+# Kinematics
 
 ## Supported Platforms
 
