@@ -1,4 +1,4 @@
-# Kinematics
+# Inverse Kinematics
 
 ## About
 
