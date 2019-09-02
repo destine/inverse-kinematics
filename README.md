@@ -1,5 +1,9 @@
 # Kinematics
 
+## About
+
+Inverse Kinematics is a real-time inverse kinematics solver for serial open chains using Moore-Penrose inverses.
+
 ## Supported Platforms
 
 * OS X 10.9.5
